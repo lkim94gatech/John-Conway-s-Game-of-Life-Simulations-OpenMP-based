@@ -68,7 +68,7 @@ The program accepts the following command-line arguments:
 2. Compile the code with the SFML library
 3. Run the program
    ```bash
-   ./Lab2
+   ./Lab2 -n <num_threads> -c <cell_size> -x <window_width> -y <window_height> -t <processing_type>
    ```
 ## Gameplay Instructions
 
