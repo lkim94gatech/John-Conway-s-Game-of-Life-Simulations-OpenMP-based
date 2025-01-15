@@ -63,7 +63,7 @@ The program accepts the following command-line arguments:
 - -y: Window height (defaults to 600).
 - -t: Processing type (SEQ, THRD, OMP; defaults to THRD).
 
-##Compilation
+## Compilation
 1. Clone the respository and navigate to the project directory.
 2. Compile the code with the SFML library
 3. Run the program
